@@ -12,3 +12,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Everwhere all around the world!!!!!!!!";
 ```
+- [X] Stray
+- [X] kids
+- [ ] who?
